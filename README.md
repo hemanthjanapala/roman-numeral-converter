@@ -37,6 +37,20 @@ cd roman-numeral-converter
 ```
 
 ---
+
+## Install dependencies for both backend and frontend
+
+```bash
+# Backend dependencies
+cd server
+npm install
+
+# Frontend dependencies
+cd ../client
+npm install
+```
+
+---
 ## How to Run It
 
 ### Prerequisites
